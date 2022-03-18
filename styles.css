@@ -9,7 +9,7 @@ td {
   /* border-spacing: 10px; - set space between borders. Not working when collapsed */
 }
 caption{
-    margin: 8px;
+    margin-bottom: 8px;
 }
 
 th,
